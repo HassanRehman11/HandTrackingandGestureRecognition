@@ -1,5 +1,9 @@
 # HandTrackingandGestureRecognition
 
+
+<p align="center"><h1>Mouse Tracking</h1></p></br></br>
+<p align="center"><img src="https://github.com/HassanRehman11/HandTrackingandGestureRecognition/blob/master/GestureImages/track.png"></p>
+</br></br>
 <p align="center"><h1>Gesture 1</h1></p></br></br>
 <p align="center"><img src="https://github.com/HassanRehman11/HandTrackingandGestureRecognition/blob/master/GestureImages/1.png"></p>
 </br></br>
